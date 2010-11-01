@@ -1,0 +1,13 @@
+TWITTER ADVOCACY TOOL
+----------------------------------------------------------
+This tool looks up your elected officials by zip code
+and provides a link to send a tweet mentioning that 
+Member of Congress' twitter ID
+
+
+Installation
+
+1) Upload the files
+2) Edit index.php look for the variable $api_key and add your Sunlight labs API key
+
+
